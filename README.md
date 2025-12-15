@@ -75,40 +75,21 @@
 
 
 ---
-
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dheysheemaa&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheysheemaa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dheysheemaa&show_icons=true&theme=dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheysheemaa&layout=compact&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheysheemaa&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheysheemaa&theme=react-dark&hide_border=true"/>
+
+
+![snake gif](https://github.com/dheysheemaa/dheysheemaa/blob/output/github-snake-dark.svg)
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheysheemaa&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheysheemaa/dheysheemaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheysheemaa/dheysheemaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dheysheemaa/dheysheemaa/output/github-snake.svg" />
-</picture>
-
-</div>  
-
----
-
 
 ---
 
